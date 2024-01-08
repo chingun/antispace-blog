@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Antispace Cheatsheet"
 date: 2024-01-05
 ---

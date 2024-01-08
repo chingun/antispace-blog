@@ -1,3 +1,5 @@
 theme: minima
 author: Chingun Khasar
 description: Hello Friend
+baseurl: "" # the subpath of your site, e.g., "/blog" or empty if not applicable
+url: "" 

@@ -1,3 +1,4 @@
 ---
-title: Welcome to Antispace Blog
----
+layout: default
+title: anti_blog
+--- 
